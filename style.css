@@ -1,0 +1,400 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+.navbar{
+    background-color: #c4ecf0;
+    font-size: 1.2em;
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+    
+}
+ .navbar-brand img{
+     margin-top: -30px;
+     margin-bottom: -30px;
+ }
+.navbar-nav li a{
+   color:#363636!important;
+   margin-right: 50px !important;
+   font-family:bold;
+   font-weight: 600;
+   font-size:18px;
+   text-transform: uppercase;
+
+}
+.navbar-nav li a:hover{
+   color:#8fcfd1 !important;
+
+
+}
+#h-mg{
+   border-radius: 50%; 
+}
+#h-cont h1{
+    font-size: 80px !important;
+    font-weight: 700 !important;
+    color:#388c8f;
+    font-family: 'Rowdies', cursive;
+}
+#h-cont p{
+     
+    color:#388c8f;
+    font-size: 21px;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+#h-cont .btn{
+    color:white;
+    background-color:#388c8f;
+    font-size: 21px;
+
+}
+ 
+#choose{
+    background-color:#388c8f;
+}
+ 
+.ch-cont h1{
+    font-size: 55px !important;
+    font-weight: 700 !important;
+    font-family: 'Rowdies', cursive;
+    color:white;
+}
+.ch-cont p{
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+#choose h3{
+    color:white;
+    font-family: 'Rowdies', cursive;
+}
+#choose p{
+    color:white;
+    font-size: 19px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+#stats{
+    width:100%;
+height:100%;
+    background-image: linear-gradient(to right,rgba(255,255,255,0.7) 100%, transparent 0%),url(img/sitting.jpg);
+    background-size:cover;
+}
+.st-cont h1{
+    font-family: 'Rowdies', cursive;
+    color:#388c8f;
+}
+.st-cont p{
+    font-size: 21px;
+    color:#388c8f;
+    font-family: 'Montserrat', sans-serif;
+}
+.st-cir{
+    border:5px solid #388c8f;
+    font-size: 40px;
+    width: 200px; 
+    height: 200px; 
+    padding: 50px; 
+    border-radius: 50%;  
+    text-align: center;
+    line-height: 40px;
+    color:#388c8f;
+     
+    font-weight: 700;
+    font-family: 'Rowdies', cursive;
+}
+ 
+ 
+#instr{
+    background-color:#388c8f;
+}
+#instr-cont{
+    padding-left: 100px !important;
+}
+#instr-cont h1{
+    font-size: 60px !important;
+    font-weight: 700 !important;
+    font-family: 'Rowdies', cursive;
+    color:white;
+}
+#instr-cont p{
+    font-size: 21px;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+}
+#instr-cont button{
+    background-color: white;
+    font-weight: 700;
+    font-size: 21px;
+    color:#388c8f;
+    font-family: 'Montserrat', sans-serif;
+}
+#instr-cont button:hover{
+    background-color:rgba(255,255,255,0.7)
+}
+#expr-cont{
+    padding-right: 100px !important;
+    padding-left: 30px;
+}
+#expr{
+     background-image: linear-gradient(to right,rgba(255,255,255,0.9) 100%, transparent 0%),url(img/design.jpg);
+     
+}
+#expr-cont h1{
+    font-size: 60px !important;
+    font-weight: 700 !important;
+    font-family: 'Rowdies', cursive;
+    color:#388c8f;
+}
+#expr-cont p{
+    font-size: 21px;
+    color:#388c8f;
+    font-family: 'Montserrat', sans-serif;
+}
+#expr-cont button{
+    background-color: #388c8f;
+    font-weight: 700;
+    font-size: 21px;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+}
+#expr-cont button:hover{
+    color:rgba(255,255,255,0.4)
+}
+#pricing{
+    background-color:#388c8f;
+}
+#pricing h1{
+    font-size: 55px !important;
+    font-weight: 700 !important;
+    font-family: 'Rowdies', cursive;
+    color:white;
+}
+#pricing p{
+    font-size: 21px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+.pr-cont{
+     background-color: white;
+    border-radius: 2%;
+    max-width: 80%;
+    padding:20px 5px;
+    
+}
+.pr-cont h5{
+    color:#388c8f;
+    font-family: 'Rowdies', cursive;
+    
+}
+.pr-cont span{
+    color:#388c8f;
+    font-family: 'Rowdies', cursive;
+    font-size: 20px;
+}
+ 
+.pr-cont p{
+    font-size: 14px !important;
+    color:#388c8f !important;
+    font-family: 'Montserrat', sans-serif;
+     
+}
+.pr-cont button{
+    color:white;
+    background-color:#388c8f; 
+    font-family: 'Rowdies', cursive;
+     
+}
+#trainer{
+    width:100%;
+height:100%;
+    background-image: linear-gradient(to right,rgba(255,255,255,0.7) 100%, transparent 0%),url(img/Yoga.jpg);
+    background-size:cover;
+}
+#trainer p{
+    font-size: 22px !important;
+    color:#388c8f !important;
+    font-family: 'Montserrat', sans-serif;
+     
+}
+#trainer h2{
+    color:#388c8f;
+    font-family: 'Rowdies', cursive;
+}
+#update{
+    background-color:#388c8f;
+}
+#update h1{
+    font-size: 50px !important;
+    font-weight: 700 !important;
+    font-family: 'Rowdies', cursive;
+    color:white;
+}
+#update p{
+    font-size: 20px !important;
+    color:white !important;
+    font-family: 'Montserrat', sans-serif;
+     
+}
+#update input{
+    border:none;
+}
+#update input:focus{
+    border:none !important;
+    outline: none;
+
+}
+#update button{
+    margin-left: -50px;
+    background-color: rgba(255,255,255,0.9);
+    color: #388c8f;
+     
+}
+.f-cont{
+    text-transform: capitalize;
+    padding-left: 30px !important;
+    
+}
+.f-cont h5{
+    color:#388c8f;
+    font-family: 'Rowdies', cursive;
+}
+.f-cont p{
+    color:#388c8f;
+    font-family: 'Montserrat', sans-serif;
+}
+@media (max-width:768px)
+{
+  .navbar-brand img{
+      display: none;
+  }  
+  #h-cont h1{
+    font-size: 35px !important;
+    font-weight: 500 !important;
+     
+}
+#h-cont p{
+     
+    color:#388c8f;
+    font-size: 17px;  
+
+}
+#h-cont .btn{ 
+    font-size: 17px;
+
+}
+.ch-cont h1{
+    font-size: 27px !important;
+    font-weight: 500 !important;
+    
+}
+.ch-cont p{
+    font-size: 17px !important;
+     
+}
+#choose h3{
+    font-size: 22px !important;   
+}
+#choose p{ 
+    font-size: 15px;
+}
+#choose .ch-div{
+    width: 80% !important;
+}
+.st-cont h1{
+    font-size: 29px !important;
+    font-weight: 500 !important;
+     
+}
+.st-cont p{
+    font-size: 17px;
+     
+}
+.st-cont .st-div{
+    width: 100%;
+     
+}
+.st-cir{
+    display: none;
+}
+#instr-cont{
+    text-align: center !important;
+    padding: 20px !important;
+}
+#instr-cont h1{
+    font-size: 27px !important;
+    font-weight: 500 !important;
+     
+}
+#instr-cont p{
+    font-size: 17px;
+    color:white;
+     
+}
+#instr-cont button{
+    
+    font-weight: 500;
+    font-size: 15px;
+    
+}
+#expr-cont{
+    text-align: center !important;
+    padding: 20px !important;
+}
+#expr-cont h1{
+    font-size: 27px !important;
+    font-weight: 500 !important;
+     
+}
+#expr-cont p{
+    font-size: 17px;
+    color:#388c8f;
+     
+}
+#expr-cont button{
+    
+    font-weight: 500;
+    font-size: 15px;
+    
+}
+#pricing h1{
+    font-size: 27px !important;
+    font-weight: 500 !important;
+    
+}
+#pricing .s-div{
+    width: 80% !important;
+}
+.pr-cont{
+    text-align: center;
+    margin: auto;
+}
+#pricing p{
+    font-size: 17px !important;
+    text-align:center; 
+}
+.pr-cont button{
+    font-size: 15px !important;
+    padding:3px 8px !important;
+      
+}
+#trainer .tr-div{
+    width: 100% !important;
+     
+     
+}
+#trainer p{
+    font-size: 17px !important;   
+}
+#trainer h2{
+    font-size: 27px !important;   
+}
+#update h1{
+    font-size: 27px !important;   
+}
+#update .up-div{
+    width: 80% !important;
+}
+}
